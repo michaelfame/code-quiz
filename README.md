@@ -2,9 +2,9 @@
 
 To build an App which is a timed coding quiz with multiple-choice questions.. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
-## Github repo details: 
+## Github repo details: https://github.com/michaelfame/code-quiz
 
-## Url details can be found: 
+## Url details can be found: https://michaelfame.github.io/code-quiz/
 
 ### AIM of the Assignment
 
